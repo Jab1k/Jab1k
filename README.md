@@ -40,9 +40,6 @@
   <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> 
     <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> 
   </a> 
-  <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> 
-  </a> 
   <a href="https://flutter.dev" target="_blank" rel="noreferrer"> 
     <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> 
   </a> 
@@ -72,6 +69,9 @@
   </a> 
   <a href="https://airnet.uz/" target="_blank" rel="noreferrer"> 
     <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRxs87ikDbovcv2XsS-OJ3i0JNpl13AG-qEtw&s" alt="airnet" width="40" height="40"/> 
+  </a>
+  <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> 
+    <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> 
   </a> 
 </p>
 
