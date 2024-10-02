@@ -6,6 +6,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://instagram.com/jabikjaan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="jabikjaan" height="30" width="40" /></a>
+<a href="https://t.me/jabikjan" target="blank"><img align="center" src="https://camo.githubusercontent.com/bee86d30342b565c3bc09aa49a2ea823800b5983536f96866e5a5394abbb59cb/68747470733a2f2f7777772e766563746f726c6f676f2e7a6f6e652f6c6f676f732f74656c656772616d2f74656c656772616d2d74696c652e737667" alt="JabikJan" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
