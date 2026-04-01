@@ -79,12 +79,4 @@
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/JabikJan"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="JabikJan" /></a></p><br><br>
 
-
-<h3 align="left">Github Account:</h3>
-
-<p align="left">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jab1k&show_icons=true&locale=en&layout=compact" alt="jab1k" />
-  &nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jab1k&show_icons=true&locale=en" alt="jab1k" />
-</p>
-
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jab1k&" alt="jab1k" /></p>
