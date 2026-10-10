@@ -1,8 +1,5 @@
 <h1 align="center">JabikJan</h1>
 <h3 align="center">Flutter Developer, Ethical Hacker, System Administrator 17 y.o</h3>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=jab1k&label=Profile%20views&color=0e75b6&style=flat" alt="jab1k" /> </p>
-
 - 📫 How to reach me **jobir4166@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
@@ -73,10 +70,3 @@
     <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR4EbhJp8Wl_8Mm-DeQYCH0ykm4X-nQdPC17A&s" alt="windows" width="40" height="40"/> 
   </a> 
 </p>
-
-
-
-<h3 align="left">Support:</h3>
-<p><a href="https://www.buymeacoffee.com/JabikJan"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="JabikJan" /></a></p><br><br>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jab1k&" alt="jab1k" /></p>
